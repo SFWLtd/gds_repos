@@ -10,7 +10,8 @@ Trawling through https://github.com/alphagov and each individual UK Government d
 ###Gov Notify
 * https://github.com/alphagov/notify-api - The Notify API
 * https://github.com/alphagov/notify-api-client - Client for the Notify API
-* https://github.com/alphagov/notify-frontend - Notify Front-End
+* https://github.com/alphagov/notify-frontend - Notify Front-End Alpha (Deprecated)
+* https://github.com/alphagov/notifications-admin - The new front-end for Notify
 
 ###Gov Verify
 * https://github.com/alphagov/verify-frontend - Verify Front-End
